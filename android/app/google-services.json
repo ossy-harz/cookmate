@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "18742118886",
+    "project_id": "cookmate-47b75",
+    "storage_bucket": "cookmate-47b75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18742118886:android:19215e33de019e0deb6e27",
+        "android_client_info": {
+          "package_name": "com.example.cookmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18742118886-eb6uhdf5mfbta4ucnpvtaal1p1i4ttr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cookmate",
+            "certificate_hash": "ad493cebeba25294fc498ef69a6c6eef00fa1423"
+          }
+        },
+        {
+          "client_id": "18742118886-jncurq8dgatofttme21toglfj953b987.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmP2RayyT4D74jh-Tx5B_2Tvoxc4RLoCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18742118886-jncurq8dgatofttme21toglfj953b987.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "18742118886-32c42glv55150hetjhav1hqin50m1eir.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cookmate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
